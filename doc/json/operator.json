@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Barcelona Getaway 3 Nights",
+    "duration": "3",
+    "description": "Start and end in Barcelona! With the discovery tour Barcelona Getaway 3 Nights, you have a 4 day tour package taking you through Barcelona, Spain. Barcelona Getaway 3 Nights is a small group tour that includes accommodation as well as an expert guide, meals.",
+    "availability": [
+      {
+        "startDate": "2019-10-10",
+        "endDate": "2019-10-13",
+        "priceDay": 20
+      },
+      {
+        "startDate": "2019-11-05",
+        "endDate": "2019-11-08",
+        "priceDay": 13
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "4 Days, 3 Nights Masai Mara And Lake Nakuru National Park Group Joining Safari",
+    "duration": "4",
+    "description": "Start and end in Nairobi! With the safari tour 4 Days, 3 Nights Masai Mara And Lake Nakuru National Park Group Joining Safari, you have a 4 day tour package taking you through Nairobi, Kenya and 2 other destinations in Kenya. 4 Days, 3 Nights Masai Mara And Lake Nakuru National Park Group Joining Safari is a small group tour that includes accommodation as well as an expert guide, meals, transport and more.",
+    "availability": [
+      {
+        "startDate": "2019-09-03",
+        "endDate": "2019-09-07",
+        "priceDay": 18
+      },
+      {
+        "startDate": "2019-11-18",
+        "endDate": "2019-11-21",
+        "priceDay": 23
+      }
+    ]
+  }
+]

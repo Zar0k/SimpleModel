@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+  <tour>
+    <id>3</id>
+    <name>Vienna Getaway 3 Nights</name>
+    <duration>3</duration>
+    <description>Start and end in Vienna! With the discovery tour Vienna Getaway 3 Nights, you have a 4 day tour package taking you through Vienna, Austria. Vienna Getaway 3 Nights is a small group tour that includes accommodation as well as an expert guide, meals.</description>
+    <availability>
+      <startDate>2019-08-03</startDate>
+      <endDate>2019-08-06</endDate>
+      <priceDay>18</priceDay>
+    </availability>
+    <availability>
+      <startDate>2019-11-21</startDate>
+      <endDate>2019-11-24</endDate>
+      <priceDay>23</priceDay>
+    </availability>
+  </tour>
+  <tour>
+    <id>4</id>
+    <name>Britain &amp; Ireland Explorer (2019, 15 Days)</name>
+    <duration>15</duration>
+    <description>Start and end in London! With the discovery tour Britain &amp; Ireland Explorer (2019, 15 Days), you have a 15 day tour package taking you through London, England and 21 other destinations in Europe. Britain &amp; Ireland Explorer (2019, 15 Days) includes accommodation in a hotel as well as an expert guide, meals, transport and more.</description>
+    <availability>
+      <startDate>2019-10-10</startDate>
+      <endDate>2019-10-25</endDate>
+      <priceDay>30</priceDay>
+    </availability>
+    <availability>
+      <startDate>2019-07-01</startDate>
+      <endDate>2019-07-16</endDate>
+      <priceDay>20</priceDay>
+    </availability>
+  </tour>
+</data>

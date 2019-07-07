@@ -1,0 +1,6 @@
+flask
+redis
+xmltodict
+flask-restplus
+Flask-Script
+kafka-python ~= 1.4.4
