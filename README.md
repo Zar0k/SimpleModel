@@ -1,4 +1,4 @@
-# TourModel
+# SimpleModel
 
 Microservice that simulates data from external APIs (json, xml), standarize it on a object and stores it on a topic in kafka, ready to be consumed.
 
