@@ -5,7 +5,7 @@ from app.main import create_app
 from flask_script import Manager
 
 
-app = create_app(os.getenv('MODEL_ENV') or 'dev')
+app = create_app(os.getenv('TOUR_ENV') or 'dev')
 app.register_blueprint(blueprint)
 app.app_context().push()
 
