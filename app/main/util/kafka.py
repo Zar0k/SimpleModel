@@ -6,7 +6,7 @@ from kafka import KafkaProducer, KafkaConsumer, TopicPartition
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
-TOPIC = 'tour'
+TOPIC = 'model'
 
 
 class Producer:
