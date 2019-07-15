@@ -8,9 +8,9 @@ from .main.controller.consumer_controller import api as consumer_namespace
 blueprint = Blueprint('api', __name__)
 
 api = Api(blueprint,
-          title='tourmodel',
+          title='Simplemodel',
           version='1.0',
-          description='tourmodel service'
+          description='simplemodel service'
           )
 
 api.add_namespace(health_namespace, path='/health')
